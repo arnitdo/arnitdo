@@ -4,8 +4,8 @@ Currently working on [GPIOStudio](https://www.github.com/arnitdo/GPIOStudio) - A
 
 Check out my past project [gpguio](https://www.github.com/arnitdo/gpguio) - A predecessor to GPIO Studio.
 
-You can help me create awesome software by donating $DOGE to the address below!
+You can help me create awesome software by donating $DOGE to the address below or by scanning the QR Code!
 
-[![Support Me!](https://user-images.githubusercontent.com/68515826/118686687-da402300-b821-11eb-90a3-5877eb9a6645.png)](dogecoin:DJNL536n4u3kS6ioP5wbXDikV6PMRRkPUM?label=Support%20arnitdo&message=Help%20me%20create%20awesome%20software%20by%20donating%21%20/)
+![Screenshot (134) (Custom) (Custom)](https://user-images.githubusercontent.com/68515826/118694383-a5d06500-b829-11eb-8712-00602ca4b9c4.png)
 
-DJNL536n4u3kS6ioP5wbXDikV6PMRRkPUM
+**DKdUZXHYYNWf1xAev4Np6fEr5fXgyV7tSi**
