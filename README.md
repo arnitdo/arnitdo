@@ -17,3 +17,4 @@ Check out my past projects!
 ### My Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arnitdo&repo=GPIOStudio&theme=dark&show_owner=true)](https://github.com/arnitdo/GPIOStudio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arnitdo&repo=communitty&theme=dark&show_owner=true)](https://github.com/arnitdo/communitty)
