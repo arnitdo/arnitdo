@@ -17,3 +17,5 @@ I'm Arnav, a Second Year Computer Engineering student at Dwarkadas J Sanghvi Col
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arnitdo&repo=Axess&theme=dark&show_owner=true)](https://github.com/arnitdo/Axess)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arnitdo&repo=GPIOStudio&theme=dark&show_owner=true)](https://github.com/arnitdo/GPIOStudio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arnitdo&repo=communitty&theme=dark&show_owner=true)](https://github.com/arnitdo/communitty)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arnitdo&repo=thinq&theme=dark&show_owner=true)](https://github.com/arnitdo/thinq)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arnitdo&repo=nutrino&theme=dark&show_owner=true)](https://github.com/arnitdo/nutrino)
