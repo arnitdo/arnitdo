@@ -1,7 +1,9 @@
 # Hi there 👋
-I'm Arnav, a Second Year Computer Engineering student at Dwarkadas J Sanghvi College of Engineering. I love developing complex backend systems and sleek UIs using NextJS, React and Typescript. Let's connect!
+I'm Arnav, a Third Year Computer Engineering student at Dwarkadas J Sanghvi College of Engineering. I love developing complex backend systems and sleek UIs using NextJS, React and Typescript. I've also worked with CI/CD and DevOps, with Linux, Docker and AWS. Let's connect!
 
 ## Check out my past projects!
+- [ThinQ](https://github.com/arnitdo/ThinQ) -  A comprehensive solution for virtual classrooms, providing a wide range of features to enhance online learning
+- [Blitz.AI](https://github.com/arnitdo/Blitz.AI-Datathon-3) - An all-in-one SaaS platform revolutionizing content creation with artificial intelligence
 - [Versura](https://www.github.com/arnitdo/versura) - A revolutionary blockchain + web based crowdfunding platform
 - [Axess](https://www.github.com/arnitdo/Axess) - An innovative QR-Code based access control and monitoring system
 - [GPIOStudio](https://www.github.com/arnitdo/GPIOStudio) - A flow based GPIO Script generation tool.
