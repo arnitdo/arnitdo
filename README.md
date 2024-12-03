@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Arnav, a Third Year Computer Engineering student at Dwarkadas J Sanghvi College of Engineering. I love developing complex backend systems and sleek UIs using NextJS, React and Typescript. I've also worked with CI/CD and DevOps, with Linux, Docker and AWS. Let's connect!
+I'm Arnav, a Third Year Computer Engineering student at Dwarkadas J Sanghvi College of Engineering. I love developing complex backend systems and sleek UIs using NextJS, React and Typescript, integrating with databases like PostgreSQL, MySQL, MongoDB, Firebase and Neo4J. I've also worked with CI/CD and DevOps, with Linux, Docker and AWS. Let's connect!
 
 ## Check out my past projects!
 - [ThinQ](https://github.com/arnitdo/ThinQ) -  A comprehensive solution for virtual classrooms, providing a wide range of features to enhance online learning
